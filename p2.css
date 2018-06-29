@@ -1,0 +1,103 @@
+.container_12{
+    background-color: pink;
+    font-family: 'Pacifico', cursive;
+}
+nav li{
+    display: inline;
+    font-family: 'Pacifico', cursive;
+    
+}
+aside{
+    background: burlywood;
+    font-family: 'Pacifico', cursive;
+}
+li a{
+    text-decoration: none;
+    font-family: 'Pacifico', cursive;
+}
+ li a:hover{
+    color: rgb(255, 0, 140);
+    font-size: 20px;
+}
+header{
+    background: palevioletred;
+    background-image: url(fruit-pattern.jpg);
+    background-position: center;
+      background-size: cover;
+      position: relative;
+      font-family: 'Pacifico', cursive;
+
+}
+.main{
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+}
+img{    margin-left: 0px;
+    margin-top: 10px;
+    width: 195px;
+    height: 195px;
+}
+h3{font-family: 'Pacifico', cursive;
+    font-variant: small-caps;
+    text-align: center;
+}
+  .hero-text h1{
+      font-variant: small-caps;
+      font-size: 50px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-family: 'Pacifico', cursive;
+    transform: translate(-50%, -50%);
+    color: white;
+  }
+  .primary p{
+      text-align: center;
+      font-family: 'Pacifico', cursive;
+  }
+  .hero-image{
+      background-image: url(pastaveg.jpg);
+      height: 300px;
+      background-position: center;
+      background-repeat: no-repeat;
+      position: relative;
+      background-size: cover;
+      width: 100%;
+      
+  }
+  span{
+    font-family: 'Pacifico', cursive;
+      color: brown;
+  }
+  .git img{
+    font-family: 'Pacifico', cursive;
+    margin-left: 80px;
+    width:50px;
+    height: 50px;
+ 
+ }
+ .git{
+     background-color: brown;
+ }
+ .git p{
+    font-family: 'Pacifico', cursive;
+    margin-left: 80px;
+ }
+ footer{
+    
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    font-family: 'Pacifico', cursive;
+    color: white;
+    text-align: center;
+  
+ }
+ body{
+    font-family: 'Pacifico', cursive;
+ }
+ footer a{
+     text-decoration-color: black;
+     color: black;
+
+ }
